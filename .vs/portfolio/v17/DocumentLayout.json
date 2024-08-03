@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\jevge\\OneDrive\\Email attachments\\Desktop\\portfolio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jevge\\OneDrive\\Email attachments\\Desktop\\portfolio\\src\\components\\LandingSection.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\LandingSection.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jevge\\OneDrive\\Email attachments\\Desktop\\portfolio\\src\\components\\Footer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Footer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jevge\\OneDrive\\Email attachments\\Desktop\\portfolio\\src\\components\\ContactMeSection.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ContactMeSection.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jevge\\OneDrive\\Email attachments\\Desktop\\portfolio\\src\\components\\Card.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Card.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jevge\\OneDrive\\Email attachments\\Desktop\\portfolio\\src\\components\\ProjectsSection.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ProjectsSection.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jevge\\OneDrive\\Email attachments\\Desktop\\portfolio\\src\\components\\Header.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Header.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jevge\\OneDrive\\Email attachments\\Desktop\\portfolio\\src\\components\\LandingSection.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\LandingSection.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jevge\\OneDrive\\Email attachments\\Desktop\\portfolio\\src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -22,37 +38,93 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Footer.js",
+              "DocumentMoniker": "C:\\Users\\jevge\\OneDrive\\Email attachments\\Desktop\\portfolio\\src\\components\\Footer.js",
+              "RelativeDocumentMoniker": "src\\components\\Footer.js",
+              "ToolTip": "C:\\Users\\jevge\\OneDrive\\Email attachments\\Desktop\\portfolio\\src\\components\\Footer.js",
+              "RelativeToolTip": "src\\components\\Footer.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-03T16:47:37.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactMeSection.js",
+              "DocumentMoniker": "C:\\Users\\jevge\\OneDrive\\Email attachments\\Desktop\\portfolio\\src\\components\\ContactMeSection.js",
+              "RelativeDocumentMoniker": "src\\components\\ContactMeSection.js",
+              "ToolTip": "C:\\Users\\jevge\\OneDrive\\Email attachments\\Desktop\\portfolio\\src\\components\\ContactMeSection.js",
+              "RelativeToolTip": "src\\components\\ContactMeSection.js",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAiwGoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-03T15:59:16.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Card.js",
+              "DocumentMoniker": "C:\\Users\\jevge\\OneDrive\\Email attachments\\Desktop\\portfolio\\src\\components\\Card.js",
+              "RelativeDocumentMoniker": "src\\components\\Card.js",
+              "ToolTip": "C:\\Users\\jevge\\OneDrive\\Email attachments\\Desktop\\portfolio\\src\\components\\Card.js",
+              "RelativeToolTip": "src\\components\\Card.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-03T15:55:01.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectsSection.js",
+              "DocumentMoniker": "C:\\Users\\jevge\\OneDrive\\Email attachments\\Desktop\\portfolio\\src\\components\\ProjectsSection.js",
+              "RelativeDocumentMoniker": "src\\components\\ProjectsSection.js",
+              "ToolTip": "C:\\Users\\jevge\\OneDrive\\Email attachments\\Desktop\\portfolio\\src\\components\\ProjectsSection.js",
+              "RelativeToolTip": "src\\components\\ProjectsSection.js",
+              "ViewState": "AQIAACgAAAAAAAAAAAAiwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-03T15:53:30.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "LandingSection.js",
               "DocumentMoniker": "C:\\Users\\jevge\\OneDrive\\Email attachments\\Desktop\\portfolio\\src\\components\\LandingSection.js",
               "RelativeDocumentMoniker": "src\\components\\LandingSection.js",
               "ToolTip": "C:\\Users\\jevge\\OneDrive\\Email attachments\\Desktop\\portfolio\\src\\components\\LandingSection.js",
               "RelativeToolTip": "src\\components\\LandingSection.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2024-08-03T15:28:10.83Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Header.js",
               "DocumentMoniker": "C:\\Users\\jevge\\OneDrive\\Email attachments\\Desktop\\portfolio\\src\\components\\Header.js",
               "RelativeDocumentMoniker": "src\\components\\Header.js",
               "ToolTip": "C:\\Users\\jevge\\OneDrive\\Email attachments\\Desktop\\portfolio\\src\\components\\Header.js",
               "RelativeToolTip": "src\\components\\Header.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAADAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2024-08-03T15:26:32.065Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "App.js",
               "DocumentMoniker": "C:\\Users\\jevge\\OneDrive\\Email attachments\\Desktop\\portfolio\\src\\App.js",
               "RelativeDocumentMoniker": "src\\App.js",
@@ -60,8 +132,7 @@
               "RelativeToolTip": "src\\App.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-08-03T15:15:16.84Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-03T15:15:16.84Z"
             }
           ]
         }
